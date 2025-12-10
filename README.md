@@ -58,3 +58,5 @@ cmake --build build
 - https://github.com/rantonels/schwarzschild
 
 Contact me - aryandadwal2006@gmail.com
+
+I'm always open for collaboration.
