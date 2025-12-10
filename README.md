@@ -56,3 +56,5 @@ cmake --build build
 - Ray-traced simulation of a black hole - https://github.com/oseiskar/black-hole
 - Raytracing a blackhole - https://rantonels.github.io/starless/
 - https://github.com/rantonels/schwarzschild
+
+Contact me - aryandadwal2006@gmail.com
